@@ -58,9 +58,8 @@ It provides **real-time menstrual cup alerts**, **AI-driven period predictions**
 Contributions are welcome! Feel free to open an issue or submit a pull request. 
 
 ---
-
 Built with ❤️ by **Full Metal Algorithmist** | Developed by **Harshit Raj**
-```
+---
 
 # Project Snaps
 
