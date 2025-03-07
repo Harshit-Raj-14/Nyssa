@@ -7,7 +7,7 @@ It provides **real-time menstrual cup alerts**, **AI-driven period predictions**
 [Download APK here](https://drive.google.com/drive/folders/10ISf1xlJ4w7MftppD5lQzM5Hy_6gbHhi?usp=sharing) 
 
 ## 🎥 Demo  
-[Watch the Demo](#) 
+[Watch the Demo](https://youtu.be/S5jCTnCaATs) 
 
 ## 🚀 Features  
 ### 🩸 Smart Menstrual Cup Alerts  
